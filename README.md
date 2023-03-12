@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, PHP and Flutter**
 
-- 📫 How to reach me **akinyele@gmail.com**
+- 📫 How to reach me **akinyeleroqeeb@gmail.com**
 
 - ⚡ Fun fact **I love travelling and going to the movies**
 
