@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi, i'm Akinyele Abdulroqeeb, a passionate self-taught full stack developer <br>and a software engineer from Lagos, Nigeria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.<br>i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm Akinyele Abdulroqeeb, a passionate self-taught full stack developer and a software engineer from Lagos, Nigeria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.i take great care in the experience, architecture, and code quality of the things I build.
 
 
 ## 🌐 Socials:
