@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi, i'm Akinyele Abdulroqeeb, a passionate self-taught full stack developer and a software engineer from Lagos, Nigeria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Akinyele Abdulroqeeb, a passionate self-taught full stack developer and a software engineer from Lagos, Nigeria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.i take great care in the experience, architecture, and code quality of the things I build.
 
 
 ## 🌐 Socials:
@@ -14,16 +14,6 @@ hi, i'm Akinyele Abdulroqeeb, a passionate self-taught full stack developer and 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=roqeebdev&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=roqeebtaiwo)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=roqeebdev&icon=0&color=10)](https://visitcount.itsvg.in)
 
